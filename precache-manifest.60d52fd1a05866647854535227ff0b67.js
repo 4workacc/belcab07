@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a659ff464452be8c3efa4172e5330e4e",
+    "revision": "5045058b2c1f10c70058de8689c09b73",
     "url": "/belcab07/index.html"
   },
   {
-    "revision": "ef7a0b9b2896f5bf8de3",
+    "revision": "c55d90bda641a0bac5d8",
     "url": "/belcab07/static/css/main.78fefc59.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/belcab07/static/js/2.367d34ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef7a0b9b2896f5bf8de3",
-    "url": "/belcab07/static/js/main.6d4791dc.chunk.js"
+    "revision": "c55d90bda641a0bac5d8",
+    "url": "/belcab07/static/js/main.e5c757ff.chunk.js"
   },
   {
     "revision": "a7934436543bbf61edfd",
