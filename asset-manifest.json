@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/belcab07/static/css/main.78fefc59.chunk.css",
-    "main.js": "/belcab07/static/js/main.3cefec7a.chunk.js",
-    "main.js.map": "/belcab07/static/js/main.3cefec7a.chunk.js.map",
+    "main.js": "/belcab07/static/js/main.5444e7be.chunk.js",
+    "main.js.map": "/belcab07/static/js/main.5444e7be.chunk.js.map",
     "runtime-main.js": "/belcab07/static/js/runtime-main.bb9ea99c.js",
     "runtime-main.js.map": "/belcab07/static/js/runtime-main.bb9ea99c.js.map",
     "static/js/2.367d34ea.chunk.js": "/belcab07/static/js/2.367d34ea.chunk.js",
     "static/js/2.367d34ea.chunk.js.map": "/belcab07/static/js/2.367d34ea.chunk.js.map",
     "index.html": "/belcab07/index.html",
-    "precache-manifest.43d64c7fea6e1a0bb3fae300fed9b52c.js": "/belcab07/precache-manifest.43d64c7fea6e1a0bb3fae300fed9b52c.js",
+    "precache-manifest.d7aa566e6d4e58c66db5e7af954ddd5a.js": "/belcab07/precache-manifest.d7aa566e6d4e58c66db5e7af954ddd5a.js",
     "service-worker.js": "/belcab07/service-worker.js",
     "static/css/main.78fefc59.chunk.css.map": "/belcab07/static/css/main.78fefc59.chunk.css.map",
     "static/js/2.367d34ea.chunk.js.LICENSE.txt": "/belcab07/static/js/2.367d34ea.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.bb9ea99c.js",
     "static/js/2.367d34ea.chunk.js",
     "static/css/main.78fefc59.chunk.css",
-    "static/js/main.3cefec7a.chunk.js"
+    "static/js/main.5444e7be.chunk.js"
   ]
 }
